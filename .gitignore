@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.dist/
+.DS_Store
+*.png
+!assets/images/*.png
